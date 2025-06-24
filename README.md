@@ -70,7 +70,7 @@ Este projeto foi desenvolvido com foco em aprendizado prático de Django básico
 Sinta-se à vontade para testar, sugerir melhorias ou adaptar!
 
 ## 👩🏻‍💻 Autor:
-- Nome: Késia
+- Nome: <a href="https://github.com/kesiasilv">Késia Silva</a>
 - Curso: Engenharia de Software, Disciplina: Novas Tecnologias, Professor: Victor Zerefos
 - Instituição: Universidade Cátolica de Brasília - UCB
 
