@@ -4,4 +4,7 @@ from .models import Task
 class TaskForm(forms.ModelForm):
     class Meta:
         model = Task
-        fields = ['title', 'completed']  # Agora o campo vai aparecer
+        fields = ['title', 'completed']  
+        widgets = {
+            'completed': forms.CheckboxInput(attrs={'class': 'form-check-input'}),
+        }
