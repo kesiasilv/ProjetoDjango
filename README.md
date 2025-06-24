@@ -29,13 +29,7 @@ Este é um projeto simples de lista de tarefas (Todo List) desenvolvido em **Pyt
 python manage.py makemigrations
 python manage.py migrate
 ```
-5.	(Opcional) Crie um superusuário para acessar o painel admin
-```
-python manage.py createsuperuser
-```
-- depois de ter criado o usuario e a senha acesse o endereço:
-http://127.0.0.1:8000/admin/
-6. Rode o servidor local:
+5. Rode o servidor local:
 - Windows:
 ```
 python manage.py runserver
@@ -44,11 +38,18 @@ python manage.py runserver
 ```
 python3 manage.py runserver
 ```
-7. Depois, abra o navegador e acesse:
+6. Depois, abra o navegador e acesse:
 
 http://127.0.0.1:8000/
 <br>
 Para parar de rodar so aperte: Control + C
+
+7.	(Opcional) Crie um superusuário para acessar o painel admin
+```
+python manage.py createsuperuser
+```
+- depois de ter criado o usuario e a senha acesse o endereço:
+http://127.0.0.1:8000/admin/
 
 ---
 
